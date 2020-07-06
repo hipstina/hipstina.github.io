@@ -1,7 +1,7 @@
 # hipstina.github.io
 ![GIF](https://github.com/hipstina/hipstina.github.io/blob/master/assets/images/uc.gif) 
 
-My portfolio website. [Click here to view live demo.](http://hipstina.github.io)
+My portfolio website: https://hipstina.github.io/
 ### Project status
 - [ ] Completed
 - [X] In Progress
