@@ -12,15 +12,15 @@ My portfolio website. [Click here to view live demo.](http://hipstina.github.io)
 
 ## ToC
 - [Product Description](https://github.com/hipstina/hipstina.github.io#ProductDescription)
-- [Getting Started](hhttps://github.com/hipstina/hipstina.github.io#Getting-Started)
+- [Getting Started](https://github.com/hipstina/hipstina.github.io#getting-started)
 - [Technologies Used](https://github.com/hipstina/hipstina.github.io#Technologies-Used)
 - [Contributing](https://github.com/hipstina/hipstina.github.io#Contributing)
-- [License](hhttps://github.com/hipstina/hipstina.github.io#License)
+- [License](https://github.com/hipstina/hipstina.github.io#License)
 
 ## Product Description
 My portfolio website contains some of the work that I've lead or contributed to as of 2020.
     
-## Getting Started
+## Getting started
 This project uses the p5.js library. You can learn more about p5.js here: https://p5js.org/libraries/
  
 ## Technologies used
@@ -34,5 +34,5 @@ Christina Padilla - [hipstina](https://github.com/hipstina/)
 
 Would you like to make hipstina.github.io better? Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## LICENSE
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
