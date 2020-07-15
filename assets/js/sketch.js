@@ -4,20 +4,22 @@
 // The closer to the cursor a cell is, the closer the grid dot moves toward cursor
 
 function setup() {
-    size = Math.min(window.innerWidth, window.innerHeight);
-    createCanvas(window.innerWidth, window.innerHeight);
-    numCols = 28; // how many columns?
-    numRows = 23; // how many rows?
-    colorBase = 30;
-    radius = 10;
+  createCanvas(window.innerWidth, window.innerHeight);
+    
+  }
+  
+  function draw() {
+    resizeCanvas(windowWidth, windowHeight);
+
+    numCols = 18; // how many columns?
+    numRows = 11; // how many rows?
+    radius = 30;
   
     cellW = canvas.width / 2 / numCols; // width of each cell
     cellH = canvas.height / 2 / numRows; // height of each cell
     lineW = cellW / 2;
     lineH = cellH / 2;
-  }
-  
-  function draw() {
+
     for (let col = 0; col < numCols; col++) {
       // do this once for every column
       for (let row = 0; row < numRows; row++) {
@@ -41,18 +43,20 @@ function setup() {
         // 1) draw a box around the cell
   
         noStroke();
-        fill("#EFEFEF");
+        fill("#EDF67D");
         rect(cellX, cellY, cellW, cellH);
   
         // 2) draw lines from the center of the cell in the direction of the mouse
-        stroke("#0000B5");
+        stroke("#bdcb0e");
         strokeWeight(3);
         line(endX, endY, endX, endY);
       }
     }
+
+    
     //cursor behavior
     noStroke();
-    fill("rgb(237, 34, 93)");
+    fill("#f14335");
     circle(mouseX, mouseY, radius, radius);
   }
   
