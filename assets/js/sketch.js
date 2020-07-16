@@ -9,7 +9,7 @@ function setup() {
   }
   
   function draw() {
-    resizeCanvas(windowWidth, windowHeight);
+//     resizeCanvas(windowWidth, windowHeight);
 
     numCols = 18; // how many columns?
     numRows = 11; // how many rows?
