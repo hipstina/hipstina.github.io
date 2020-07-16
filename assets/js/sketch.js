@@ -5,7 +5,7 @@
 
 function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
-    
+    background("#EDF67D");
   }
   
   function draw() {
