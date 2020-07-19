@@ -6,15 +6,10 @@
 function setup() {
   size = Math.min(window.innerWidth, window.innerHeight);
   createCanvas(window.innerWidth, window.innerHeight);
-  numCols = 14; // how many columns?
-  numRows = 10; // how many rows?
-  // colorBase = 30;
-  radius = 10;
 
-  cellW = canvas.width / 2 / numCols; // width of each cell
-  cellH = canvas.height / 2 / numRows; // height of each cell
-  lineW = cellW / 2;
-  lineH = cellH / 2;
+  
+  
+  
 }
 
 function draw() {
@@ -61,8 +56,10 @@ function draw() {
       line(endX, endY, endX, endY);
     }
   }
+
   //cursor behavior
   noStroke();
   fill("rgb(237, 34, 93)");
   circle(mouseX, mouseY, radius, radius);
 }
+
