@@ -1,4 +1,4 @@
-// Sketch forked from /narrowdesign/sketches/s54BC2Lk
+// Sketch forked & adapted from https://editor.p5js.org/narrowdesign/sketches/s54BC2Lk
 // Rules:
 // All dot start at the center of their cell and point to the mouse cursor
 // The closer to the cursor a cell is, the closer the grid dot moves toward cursor
