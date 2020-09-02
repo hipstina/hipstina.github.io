@@ -16,7 +16,7 @@ A temporary website I created while my portfolio website is under construction.
     
 ## Getting started
 ```zsh
-$ git clone https://github.com/YOUR-USERNAME/hipstina.github.io
+$ git clone https://github.com/hipstina/hipstina.github.io
 ```
 This project uses the p5.js library. You can learn more about p5.js on [their official site](https://p5js.org/libraries/), or make your first sketch in the **[p5.js Editor](https://editor.p5js.org/)**!
  
