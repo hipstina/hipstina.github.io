@@ -1,7 +1,7 @@
 # hipstina.github.io
 ![GIF](https://github.com/hipstina/hipstina.github.io/blob/master/assets/images/uc.gif) 
 
-My portfolio website: https://hipstina.github.io/
+View demo here: https://hipstina.github.io/
 ### Project status
 - [ ] Completed
 - [X] In Progress
@@ -18,7 +18,7 @@ My portfolio website: https://hipstina.github.io/
 - [License](https://github.com/hipstina/hipstina.github.io#License)
 
 ## Product Description
-My portfolio website contains some of the work that I've lead or contributed to as of 2020.
+A temporary website I created while my portfolio website is under construction.
     
 ## Getting started
 This project uses the p5.js library. You can learn more about p5.js here: https://p5js.org/libraries/
