@@ -15,7 +15,10 @@ View demo here: https://hipstina.github.io/
 A temporary website I created while my portfolio website is under construction.
     
 ## Getting started
-This project uses the p5.js library. You can learn more about p5.js here: https://p5js.org/libraries/
+```zsh
+$ git clone https://github.com/YOUR-USERNAME/hipstina.github.io
+```
+This project uses the p5.js library. You can learn more about p5.js on [their official site](https://p5js.org/libraries/), or make your first sketch in the **[p5.js Editor](https://editor.p5js.org/)**!
  
 ## Technologies used
 - HTML 5
