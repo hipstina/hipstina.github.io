@@ -1,5 +1,5 @@
 # hipstina.github.io
-![GIF](https://github.com/hipstina/hipstina.github.io/blob/master/assets/images/uc.gif) 
+![GIF](https://github.com/hipstina/hipstina.github.io/blob/master/assets/images/uc02.gif) 
 
 View demo here: https://hipstina.github.io/
 ### Project status
